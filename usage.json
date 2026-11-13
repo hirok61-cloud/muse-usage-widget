@@ -1,10 +1,10 @@
 {
   "plan": "free",
-  "weeklyUsedPercent": 98,
-  "weeklyRemainingPercent": 2,
+  "weeklyUsedPercent": 100,
+  "weeklyRemainingPercent": 0,
   "weeklyResetsAt": "2026-11-14T06:59:00+09:00",
   "weeklyResetsLabel": "11月14日(土) 6:59",
   "additionalTokensUsedPercent": 0,
-  "additionalTokensLeft": "30億",
-  "updatedAt": "2026-11-13T06:44:00+09:00"
+  "additionalTokensLeft": "29億",
+  "updatedAt": "2026-11-13T09:44:01+09:00"
 }
